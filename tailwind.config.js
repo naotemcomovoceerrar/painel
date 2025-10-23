@@ -22,9 +22,9 @@ export default {
         },
         'ocean-dark': {
           '900': '#0A2540',
-        },
-      },
-    },
+        }
+      }
+    }
   },
   plugins: [],
-};
+}
