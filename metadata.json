@@ -1,0 +1,5 @@
+{
+  "name": "painel",
+  "description": "A comprehensive administrative panel for managing IPTV subscriptions, clients, billing, and automated messaging. Features a dynamic dashboard, client management, DNS controls, and WhatsApp bot integration.",
+  "requestFramePermissions": []
+}
